@@ -1,0 +1,4 @@
+forge-std/=lib/forge-std/src/
+token-types/=lib/token-types/src/
+@sp1-contracts/=lib/sp1-contracts/contracts/src/
+solmate/=lib/solmate/src/

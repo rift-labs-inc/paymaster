@@ -1,0 +1,12 @@
+[profile.default]
+evm_version = "cancun"
+via_ir = true
+bytecode_hash = "none"
+
+[fuzz]
+runs = 10_000
+seed = "0x6900000000000000000000000000000000000000000000000000000000000000"
+
+[fmt]
+bracket_spacing = true
+multiline_func_header = "params_first"

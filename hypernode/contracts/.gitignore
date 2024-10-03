@@ -1,0 +1,5 @@
+/cache
+/out
+.DS_Store
+src/rift_contracts.code-workspace
+.env
